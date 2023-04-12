@@ -14,3 +14,5 @@ Python Libraries :
     - matplotlib
     - Pandas
     - NetworkX
+    - apyori 
+    - mlxtend.frequent_patterns ( association_rules )
